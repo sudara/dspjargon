@@ -25,3 +25,25 @@ The goal is to provide a reference to jog one's memory or provide the high level
 5. Link to (instead of define) sub terms and related terms that the definition depends on. For example, Buffer should link to, but not explain Circular Buffer.
 6. External links (wikipedia, coursera, etc) belong in the footnotes, not the definition body.
 7. Definitions should be singular (cycle vs. cycles).
+
+## Syntax
+
+1. Filenames are all lowercase with underscores between words (snake case)
+2. Internal links, including the primary h2 title link is all lowercase with hyphens between words (kebab case).
+3. Acronyms like SIMD and DAW are an exception. The filename and the link name are then uppercase.
+
+
+For a file named `term_being_defined.md`
+```
+## [Term Being Defined](#term-being-defined)
+*Some Synonym*
+*Some Other Synonym*
+
+Text definition about what it does and maybe a contextually related [term](#term).
+
+Link to some [other definition](#other-definition).
+
+---
+1. Visit [External link](http://google.com) on Google.
+2. Watch [Some Video](http:///coursera.com/video/link) on Coursera.
+```
