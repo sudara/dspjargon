@@ -1,4 +1,4 @@
-# [Low-pass filter](#low_pass_filter)
+# [Low-pass filter](#low-pass-filter)
 *LPF*
 
 A [filter](filter) that lets through all frequencies lower than a certain ([cutoff](#cutoff)) frequency.

@@ -5,7 +5,9 @@ A generic unit to measure relative sound volume logarithmically.
 
 The unit is relative to the quietest measurable sound for humans.
 
-A change in +3db would be a doubling the amount of sound energy.
+As increase in +3db doubles the amount of sound energy.
+
+Human hearing is able to perceive around 120db worth of dynamic range.
 
 There are many other related units such as dBV, dBu, dB SPL.
 
