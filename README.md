@@ -12,17 +12,23 @@ However, Digital Signal Processing has a few historical contexts that amplify th
 
 ## The Goal
 
-The definitions aim to provide "the most useful or pragmatic way to think about X."
+The main goal is to provide a useful, pragmatic and clear way to think about the term. 
 
-The goal is to provide a reference to jog one's memory or provide the high level concept. It's not to teach how a concept works or how it is applied. Therefore there are no detailed explanations or diagrams.
+The definition should provide that critical but often difficult to find first "hook" for someone trying to wade through muddy waters to understand a term means and where it applies.
+
+A learner might need their memory jogged. A learner might have terms confused and want to clarify the difference or relationship between terms. Or it might be their first time looking the term up and just want the high level concept and context.
+
+The goal is not to teach how a concept works, illustrate its history or show details about it is applied. There are no long explanations, diagrams, illustrations or chunks of code.
+
+Only that first hook...
 
 ## Style Guide
 
 1. Concise and plain language is encouraged. Aim for one-liners.
 2. Multiple short "angles" or contexts of the word are nice to provide. Provide the most useful one first.
-3. Avoid using part of the term in the definition (for example, don't rely on the word "phase" when defining "linear phase")
-4. Code and math blocks are encouraged to supplement words if there are canonical and recognizable examples. These should be as generic as possible.
-5. Link to (instead of define) sub terms and related terms that the definition depends on. For example, Buffer should link to, but not explain Circular Buffer.
+3. Avoid using part of the term in the definition (for example, don't rely on the word "phase" when defining "linear phase") unless you 
+4. Code and math blocks can supplement words when there are canonical recognizable examples. They should be as concise and simple as possible.
+5. Link to (instead of redundantly define) sub terms and related terms that the definition depends on. For example, Buffer should link to, but not explain Circular Buffer.
 6. External links (wikipedia, coursera, etc) belong in the footnotes, not the definition body.
 7. Definitions should be singular (cycle vs. cycles).
 
