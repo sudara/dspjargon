@@ -1,6 +1,12 @@
 ## [Non-linear](#non-linear)
 
-Describes a [filter](#filter) or a system where the 
+Describes a [filter](#filter) or a system where the
+
+Distortion. Compression.
+
+Harmonics are created.
+
+[Characteristic curve](#characteristic-curve) is no longer just a line.
 
 ---
 

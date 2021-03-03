@@ -1,3 +1,3 @@
 ## [Vector](#vector)
 
-In DSP, this usually refers to the math / C++ meaning, an "array" of values, for example [floats](#float).
+In most contexts, this refers to the math / C++ definiton: an "array" of values, for example [floats](#float).

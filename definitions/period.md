@@ -1,7 +1,9 @@
 ## [Period](#period)
 *Periodic Time*
 
-Sometimes used interchangeably with [cycle](#cycle), but technically it's the duration in time of 1 cycle.
+How long a [cycle](#cycle) of a waveform takes. 
+
+Sometimes used interchangeably with [cycle](#cycle), but technically the period of is the duration in time of 1 cycle.
 
 Reciprocal of [frequency](#frequency).
 
