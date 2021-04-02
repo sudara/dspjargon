@@ -1,3 +1,5 @@
 ## [Vector](#vector)
 
-In most contexts, this refers to the math / C++ definiton: an "array" of values, for example [floats](#float).
+In C++ (and some other languages), this is an "array" of values, for example a collection of [floats](#float). Unlike an array, there can be a variable number of values.
+
+In math, a vector is a magnitude and an angle on a plane.

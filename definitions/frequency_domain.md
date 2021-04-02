@@ -1,4 +1,5 @@
 ## [Frequency Domain](#frequency-domain)
+*Z domain*
 
 The spectrum of a signal.
 

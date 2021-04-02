@@ -1,7 +1,7 @@
 ## [Period](#period)
 *Periodic Time*
 
-How long a [cycle](#cycle) of a waveform takes. 
+How long a [cycle](#cycle) of a waveform takes, in time or [samples](#sample).
 
 Sometimes used interchangeably with [cycle](#cycle), but technically the period of is the duration in time of 1 cycle.
 

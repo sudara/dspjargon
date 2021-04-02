@@ -1,10 +1,12 @@
 ## [Discrete Fourier Transform](#DFT)
 
-Converting a signal from the [time domain](#time_domain) to the [frequency domain](#frequency-domain).
+A practical implementation of the [Discrete Time Fourier Transform](#DTFT) that computers can perform.
 
-How we get the [z-transform](#z-transform)
+Converting a [discrete](#discrete) signal from the [time domain](#time_domain) to the [frequency domain](#frequency-domain).
 
-There are a million things named Something Something Fourier. This is the one that happens in the digital domain.
+This is how we get the [z-transform](#z-transform)
+
+There are a million things named Something Something Fourier Transform. This is a category just means it's  digital domain.
 
 It's called a transform because it takes a function of one variable (time) and transforms it to a function of another (frequency).
 

@@ -2,7 +2,7 @@
 
 A technique used when computing the [FFT](#fft) where the signal is split in half and zeros are added in the middle of the signal.
 
-This gives the benefit of increases the fidelity of the FFT  while keeping the signal as symmetrical as possible.
+This gives the benefit of increases the fidelity of the FFT while keeping the signal as symmetrical as possible.
 
 ---
 
