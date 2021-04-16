@@ -1,6 +1,6 @@
-## [Periodic](#periodic)
+## [Periodic signal](#periodic_signal)
 
-A waveform that repeats itself regularly and therefore has pitch. 
+A signal that repeats itself regularly and therefore has pitch. 
 
 Generated sine, saw, square waves are good examples.
 

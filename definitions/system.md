@@ -1,5 +1,5 @@
 ## [System](#system)
 
-Something that produces an output signal when given an input signal.
+Something that produces one or more outputs when zero or more inputs.
 
-A [filter](#filter) is normally what's being discussed.
+Often used as a synonym to a [filter](#filter).

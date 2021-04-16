@@ -26,7 +26,7 @@ Only that first hook...
 
 1. Concise and plain language is encouraged. Aim for one-liners.
 2. Multiple short "angles" or contexts of the word are nice to provide. Provide the most useful one first.
-3. Avoid using part of the term in the definition (for example, don't rely on the word "phase" when defining "linear phase") unless you 
+3. Avoid using part of the term in the definition (for example, don't rely on the word "phase" when defining "linear phase"). 
 4. Code and math blocks can supplement words when there are canonical recognizable examples. They should be as concise and simple as possible.
 5. Link to (instead of redundantly define) sub terms and related terms that the definition depends on. For example, Buffer should link to, but not explain Circular Buffer.
 6. External links (wikipedia, coursera, etc) belong in the footnotes, not the definition body.

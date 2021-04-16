@@ -1,4 +1,6 @@
 ## [Superposition](#superposition)
+*Superposition principle*
+*Superposition property*
 
 When two signals are summed and then go through a filter, the result is the same as when they go through the filter individually and are summed afterwards.
 

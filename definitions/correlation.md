@@ -2,7 +2,7 @@
 
 How similar 2 signals are to each other.
 
-Can be determined with the [dot product](#dot-product).
+It is determined with the [dot product](#dot-product).
 
 See: [autocorrelation](#autocorrelation) and [cross correlation](#cross-correlation).
 
