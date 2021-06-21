@@ -1,6 +1,6 @@
 ## [Complex Number](#complex-number)
 
-Fundamentally, a complex number is a way to store and treat two numbers (a [vector](#vector)) as if they were one.
+A complex number is a way to store and use two numbers (a [vector](#vector)) as if they were one.
 
 It's a number that consists of a real part and an an imaginary part bundled together in one package such as `5 + 4i`. The imaginary part is the part with the imaginary unit `i`.
 
