@@ -2,4 +2,6 @@
 
 "A way to convey information"
 
-A function of time.
+Amplitude as a function of time.
+
+On a computer, signals are [discrete](#discrete).

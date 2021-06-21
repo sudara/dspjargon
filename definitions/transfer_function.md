@@ -1,5 +1,7 @@
 ## [Transfer function](#transfer-function)
 
-Algebraic representation of what a filter does in the [frequency domain](#frequency-domain).
+Frequency response of a [filter](#filter). How a filter behaves in the in the [frequency domain](#frequency-domain).
 
-Can also be thought of as the z transform of the impulse response.
+Ratio of the output frequency response to the input frequency response. How much of the input "transfers" to the output?
+
+Calculated by taking the [z-transform](#z-transform) of both sides of the [difference equation](#difference-equation).

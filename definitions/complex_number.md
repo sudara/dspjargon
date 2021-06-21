@@ -1,5 +1,9 @@
 ## [Complex Number](#complex-number)
 
-A number that consists of an imaginary part and a real part bundled together in one package such as `5 + 4i`.
+Fundamentally, a complex number is a way to store and treat two numbers (a [vector](#vector)) as if they were one.
 
-They are graphed with the x-axis representing the real part and the y-axis representing the imaginary part.
+It's a number that consists of a real part and an an imaginary part bundled together in one package such as `5 + 4i`. The imaginary part is the part with the imaginary unit `i`.
+
+In dsp and electrical engineering, `j` is  used as the imaginary unit instead of `i` (which often denotes current).
+
+Complex numbers are graphed on the [complex plane](#complex-plane).

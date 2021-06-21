@@ -1,6 +1,6 @@
 ## [Filter](#filter)
 
-A formula for going from one signal to another.
+A formula or function for going from one signal to another.
 
 ---
 

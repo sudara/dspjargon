@@ -1,4 +1,6 @@
 ## [Sample Rate](#sample_rate)
+*Sampling frequency*
+*Fs*
 
 How many [discrete](#discrete) [samples](#sample) per second.
 
