@@ -25,18 +25,20 @@ Only that first hook...
 ## Style Guide
 
 1. Concise and plain language is encouraged. Aim for one-liners.
-2. Multiple short "angles" or contexts of the word are nice to provide. Provide the most useful one first.
-3. Avoid using part of the term in the definition (for example, don't rely on the word "phase" when defining "linear phase"). 
-4. Code and math blocks can supplement words when there are canonical recognizable examples. They should be as concise and simple as possible.
-5. Link to (instead of redundantly define) sub terms and related terms that the definition depends on. For example, Buffer should link to, but not explain Circular Buffer.
+2. Multiple short "angles" or contexts of the word are nice to provide. Provide the most pragmatic and big picture one first (the "what/why") and the more technical definition (the "how") afterwards.
+3. Avoid using part of the term in the definition. For example, don't rely on people knowing the word "phase" when defining "linear phase"). 
+4. Don't redundantly define sub terms and related terms that the definition depends on. Instead, link to them. For example, "circular buffer" should link to, but not explain "buffer". The exception: when parts of the term need defining but don't need their own entry, such as "shift register" in "linear feedback shift register."
+5. Code and math blocks can supplement words when there are canonical recognizable examples. They should be as concise and simple as possible.
 6. External links (wikipedia, coursera, etc) belong in the footnotes, not the definition body.
 7. Definitions should be singular (cycle vs. cycles).
+8. When multiple terms refer to the same thing, the primary definition should be the most colloquially common, and synonyms should be listed inside the definition file.
 
 ## Syntax
 
 1. Filenames are all lowercase with underscores between words (snake case)
-2. Internal links, including the primary h2 title link is all lowercase with hyphens between words (kebab case).
+2. Internal links to other definitions (including the primary h2 title link) are lowercase with hyphens between words (kebab case).
 3. Acronyms like SIMD and DAW are an exception. The filename and the link name are then uppercase.
+4. Synonyms are listed immediately below the title, one per line
 
 
 For a file named `term_being_defined.md`
